@@ -1,0 +1,10 @@
+h1, h2 {
+	color: blue;
+	background-color: #800080;
+}
+h1 {
+	color: rgb(177, 17, 84);
+}
+p {
+	color: red;
+}
